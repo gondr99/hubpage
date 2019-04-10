@@ -1,0 +1,12 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.red {
+    background-color: #f00;
+}
+
+.blue {
+    background-color: #00f;
+}
